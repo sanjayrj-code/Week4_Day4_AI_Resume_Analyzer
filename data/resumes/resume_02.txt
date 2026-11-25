@@ -1,0 +1,22 @@
+
+Name: Priya Sharma
+Email: priya.sharma@example.com
+
+Professional Summary:
+Data Analyst with 2 years of experience in data analysis and business reporting.
+
+Skills:
+Python, SQL, Excel, Power BI, Tableau, Data Visualization, Statistics
+
+Work Experience:
+Junior Data Analyst at Bright Solutions
+2023 - 2025
+Created business reports, analyzed customer data and developed interactive dashboards.
+
+Education:
+Bachelor of Commerce
+University of Madras
+2023
+
+Strengths:
+Analytical thinking, attention to detail and communication.

@@ -1,0 +1,22 @@
+
+Name: Rahul Verma
+Email: rahul.verma@example.com
+
+Professional Summary:
+Machine Learning Engineer with 4 years of experience building predictive models.
+
+Skills:
+Python, Scikit-learn, TensorFlow, Pandas, NumPy, Machine Learning, Deep Learning, SQL
+
+Work Experience:
+Machine Learning Engineer at TechVision
+2021 - 2025
+Developed classification models and improved prediction accuracy through feature engineering.
+
+Education:
+Master of Computer Applications
+Anna University
+2021
+
+Strengths:
+Problem solving, research and critical thinking.

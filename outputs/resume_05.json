@@ -1,0 +1,23 @@
+{
+    "candidate_name": "Arun Kumar",
+    "skills": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "Git",
+        "Excel"
+    ],
+    "years_of_experience": 3,
+    "education": [
+        "Bachelor of Computer Science",
+        "University of Madras"
+    ],
+    "strengths": [
+        "Problem solving",
+        "communication",
+        "teamwork"
+    ],
+    "gaps": []
+}

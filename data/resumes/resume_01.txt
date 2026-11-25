@@ -1,0 +1,21 @@
+Name: Arun Kumar
+Email: arun.kumar@example.com
+
+Professional Summary:
+Python developer with 3 years of experience.
+
+Skills:
+Python, SQL, Pandas, NumPy, Machine Learning, Git, Excel
+
+Work Experience:
+Data Analyst at ABC Technologies
+2022 - 2025
+Worked on data cleaning, reporting and dashboard development.
+
+Education:
+Bachelor of Computer Science
+University of Madras
+2022
+
+Strengths:
+Problem solving, communication and teamwork.

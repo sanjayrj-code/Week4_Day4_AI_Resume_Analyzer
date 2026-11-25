@@ -1,0 +1,5 @@
+
+PyMuPDF
+tiktoken
+google-genai
+python-dotenv

@@ -1,0 +1,22 @@
+
+Name: Sneha Reddy
+Email: sneha.reddy@example.com
+
+Professional Summary:
+Frontend Developer with 1 year of experience developing responsive web applications.
+
+Skills:
+HTML, CSS, JavaScript, React, Git, Bootstrap, UI Design
+
+Work Experience:
+Frontend Developer Intern at WebWorks
+2024 - 2025
+Developed responsive website components and fixed user interface issues.
+
+Education:
+Bachelor of Technology in Information Technology
+SRM Institute of Science and Technology
+2024
+
+Strengths:
+Creativity, teamwork and adaptability.

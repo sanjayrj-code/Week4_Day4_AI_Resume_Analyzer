@@ -1,0 +1,22 @@
+{
+    "candidate_name": "Rahul Verma",
+    "skills": [
+        "Python",
+        "Scikit-learn",
+        "TensorFlow",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "Deep Learning",
+        "SQL"
+    ],
+    "years_of_experience": 4,
+    "education": [
+        "Master of Computer Applications Anna University"
+    ],
+    "strengths": [
+        "Problem solving",
+        "research and critical thinking"
+    ],
+    "gaps": []
+}
